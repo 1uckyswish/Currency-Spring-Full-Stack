@@ -1,0 +1,10 @@
+/Users/butterflycoupe/Desktop/Projects/Currency-angular/backend/src/main/java/com/noel/currency_converter/CurrencyConverterApplication.java
+/Users/butterflycoupe/Desktop/Projects/Currency-angular/backend/src/main/java/com/noel/currency_converter/controller/CurrencyController.java
+/Users/butterflycoupe/Desktop/Projects/Currency-angular/backend/src/main/java/com/noel/currency_converter/exception/ApiCallException.java
+/Users/butterflycoupe/Desktop/Projects/Currency-angular/backend/src/main/java/com/noel/currency_converter/exception/GlobalExceptionHandler.java
+/Users/butterflycoupe/Desktop/Projects/Currency-angular/backend/src/main/java/com/noel/currency_converter/exception/InvalidAmountException.java
+/Users/butterflycoupe/Desktop/Projects/Currency-angular/backend/src/main/java/com/noel/currency_converter/exception/InvalidBaseCurrencyException.java
+/Users/butterflycoupe/Desktop/Projects/Currency-angular/backend/src/main/java/com/noel/currency_converter/exception/InvalidDateException.java
+/Users/butterflycoupe/Desktop/Projects/Currency-angular/backend/src/main/java/com/noel/currency_converter/model/ConversionResponse.java
+/Users/butterflycoupe/Desktop/Projects/Currency-angular/backend/src/main/java/com/noel/currency_converter/model/RatesResponse.java
+/Users/butterflycoupe/Desktop/Projects/Currency-angular/backend/src/main/java/com/noel/currency_converter/service/CurrencyService.java
